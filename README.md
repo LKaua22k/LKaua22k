@@ -2,10 +2,10 @@
 
 <div style="display: flex">
   <a href="https://github.com/LKaua22k/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=LKaua22k&show_icons=true&theme=radical&rank_icon=percentile"&card_width=90px"/>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=LKaua22k&show_icons=true&theme=radical&rank_icon=percentile"&card_width=90px"/>
   </a>
   <a href="https://github.com/LKaua22k/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LKaua22k&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320"/>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LKaua22k&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320"/>
   </a>
 </div>
 

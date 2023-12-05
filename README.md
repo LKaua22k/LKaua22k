@@ -2,19 +2,12 @@
 
 <div style="display: flex">
   <a href="https://github.com/LKaua22k/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LKaua22k&show_icons=true&theme=radical&rank_icon=percentile"&card_width=120" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LKaua22k&show_icons=true&theme=radical&rank_icon=percentile"&card_width=90px"/>
   </a>
   <a href="https://github.com/LKaua22k/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LKaua22k&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=120" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LKaua22k&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=90PX"/>
   </a>
 </div>
-
-<a href="https://github.com/LKaua22k/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LKaua22k"/>
-</a>
-<a href="https://github.com/LKaua22k/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LKaua22k&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ## Tecnologias que eu uso no meu dia
 
